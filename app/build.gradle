@@ -5,6 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
+        vectorDrawables.useSupportLibrary(true)
         applicationId "id.sch.smktelkom_mlg.learn.intent3"
         minSdkVersion 15
         targetSdkVersion 24
