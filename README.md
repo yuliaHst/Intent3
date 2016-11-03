@@ -4,6 +4,8 @@
 ![img-20161015-wa0032](https://cloud.githubusercontent.com/assets/22391791/19411238/095c7e96-9328-11e6-8c10-3f8d704d3c5b.jpg)
 ![img-20161015-wa0023](https://cloud.githubusercontent.com/assets/22391791/19411237/095c28c4-9328-11e6-8659-e0085e3d656e.jpg)
 ![img-20161015-wa0028](https://cloud.githubusercontent.com/assets/22391791/19411240/09689a50-9328-11e6-93c3-66553d715e0d.jpg)
+![img-20161015-wa0024](https://cloud.githubusercontent.com/assets/22391791/19954217/faec44e2-a1a8-11e6-80fc-9a79cc81e0b1.jpg)
+
 ### Biodata
 * Nama : Yulia Hesti
 * Kelas : XII-RPL 4
